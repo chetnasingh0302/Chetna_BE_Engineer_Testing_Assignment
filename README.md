@@ -55,6 +55,7 @@ To get started with this project, follow these steps:
 pip install python3
 pip install -r requirements.txt
 ```
+Note: Restart your IDE
 
 
 3. Run uvicorn at port 8000-
@@ -67,6 +68,8 @@ The application must have been started on port http://127.0.0.1:8000
 4. Swagger UI to use project APIs-
 
 http://127.0.0.1:8000/docs
+
+5. Output will be stored in file named scarpped_data.json
 
 your authentication token is `SECRET_TOKEN`
 
